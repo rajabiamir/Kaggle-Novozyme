@@ -1,1 +1,2 @@
 # Kaggle-Novozyme
+This is an attempt to solve the Novozyme enzyme project in kaggle(https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction). The goal was to predict and rank the melting temperature of test set that contained single amino acid mutation of a hypothetical protein. One set of traning data was provided by kaggle but we were free to obtain data from any other source to train our machine learning algorithm that is why I added additional data from FireProt.
